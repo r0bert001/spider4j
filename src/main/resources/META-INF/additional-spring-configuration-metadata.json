@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "spider4j.seed.url",
+      "type": "java.lang.String",
+      "description": "a seed url for this spider."
+    },
+    {
+      "name": "spider4j.images.dir",
+      "type": "java.lang.String",
+      "description": "dir for images."
+    }
+  ]
+}
